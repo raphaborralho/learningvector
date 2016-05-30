@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/html5lib
+END
+Tokenizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/html5lib/Tokenizer.php
+END
+named-character-references.ser
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/html5lib/named-character-references.ser
+END
+Data.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/html5lib/Data.php
+END
+InputStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/html5lib/InputStream.php
+END
+TreeBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/html5lib/TreeBuilder.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/html5lib/Parser.php
+END

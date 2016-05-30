@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/moodlelvs/!svn/ver/91/trunk/LV2.5/blocks/lvs/biblioteca/dompdf
+END
+docblox.dist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/docblox.dist.xml
+END
+load_font.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/load_font.php
+END
+LICENSE.LGPL
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/LICENSE.LGPL
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/changelog.txt
+END
+dompdf_config.custom.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/dompdf_config.custom.inc.php
+END
+dompdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/moodlelvs/!svn/ver/77/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/dompdf.php
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/readme.html
+END
+dompdf_config.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/dompdf_config.inc.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/index.php
+END

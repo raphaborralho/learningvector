@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/moodlelvs/!svn/ver/100/trunk/LV2.5/blocks/lvs/biblioteca/moodle2/view
+END
+Moodle2View.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/moodlelvs/!svn/ver/63/trunk/LV2.5/blocks/lvs/biblioteca/moodle2/view/Moodle2View.php
+END
+QuizzesView.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/moodlelvs/!svn/ver/100/trunk/LV2.5/blocks/lvs/biblioteca/moodle2/view/QuizzesView.php
+END
+RelatorioView.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/moodlelvs/!svn/ver/100/trunk/LV2.5/blocks/lvs/biblioteca/moodle2/view/RelatorioView.php
+END
+DistanciaView.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/moodlelvs/!svn/ver/67/trunk/LV2.5/blocks/lvs/biblioteca/moodle2/view/DistanciaView.php
+END
+PresenciaisView.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/moodlelvs/!svn/ver/91/trunk/LV2.5/blocks/lvs/biblioteca/moodle2/view/PresenciaisView.php
+END

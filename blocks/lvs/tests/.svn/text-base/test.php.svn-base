@@ -1,0 +1,10 @@
+<?php
+	class test extends PHPUnit_Framework_TestCase	 {
+	 	
+		function test_pass(){
+	 		$boolean = false;
+	 		$this->assertFalse($boolean);
+	 	}
+	 	
+	}
+?>

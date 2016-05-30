@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes
+END
+font_eot.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_eot.cls.php
+END
+font_table_cmap.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_cmap.cls.php
+END
+font_header.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_header.cls.php
+END
+font_table_hhea.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_hhea.cls.php
+END
+font_table.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table.cls.php
+END
+font_table_directory_entry.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_directory_entry.cls.php
+END
+font_table_post.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_post.cls.php
+END
+font_table_head.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_head.cls.php
+END
+font_table_loca.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_loca.cls.php
+END
+adobe_font_metrics.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/adobe_font_metrics.cls.php
+END
+font_table_name_record.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_name_record.cls.php
+END
+font_woff_header.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_woff_header.cls.php
+END
+font_opentype_table_directory_entry.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_opentype_table_directory_entry.cls.php
+END
+font_truetype_collection.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_truetype_collection.cls.php
+END
+font_truetype_table_directory_entry.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_truetype_table_directory_entry.cls.php
+END
+font_woff.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_woff.cls.php
+END
+font_table_hmtx.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_hmtx.cls.php
+END
+font_table_name.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_name.cls.php
+END
+font_table_os2.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_os2.cls.php
+END
+font_table_maxp.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_maxp.cls.php
+END
+font_binary_stream.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_binary_stream.cls.php
+END
+font.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font.cls.php
+END
+encoding_map.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/encoding_map.cls.php
+END
+font_table_glyf.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_glyf.cls.php
+END
+font_truetype_header.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_truetype_header.cls.php
+END
+font_opentype.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_opentype.cls.php
+END
+font_table_kern.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_table_kern.cls.php
+END
+font_woff_table_directory_entry.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_woff_table_directory_entry.cls.php
+END
+font_truetype.cls.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/moodlelvs/!svn/ver/72/trunk/LV2.5/blocks/lvs/biblioteca/dompdf/lib/php-font-lib/classes/font_truetype.cls.php
+END

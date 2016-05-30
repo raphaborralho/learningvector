@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/moodlelvs/!svn/ver/100/trunk/LV2.5/blocks/lvs/pages
+END
+npresencial.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/moodlelvs/!svn/ver/91/trunk/LV2.5/blocks/lvs/pages/npresencial.php
+END
+atividades_presenciais.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/moodlelvs/!svn/ver/64/trunk/LV2.5/blocks/lvs/pages/atividades_presenciais.php
+END
+relatorio_notas.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/moodlelvs/!svn/ver/100/trunk/LV2.5/blocks/lvs/pages/relatorio_notas.php
+END
+configuracao_presenciais.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/moodlelvs/!svn/ver/83/trunk/LV2.5/blocks/lvs/pages/configuracao_presenciais.php
+END
+grava_nota_presencial.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/moodlelvs/!svn/ver/17/trunk/LV2.5/blocks/lvs/pages/grava_nota_presencial.php
+END
+notaslv_impressao.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/moodlelvs/!svn/ver/89/trunk/LV2.5/blocks/lvs/pages/notaslv_impressao.php
+END
+relatorio_distancia.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/moodlelvs/!svn/ver/64/trunk/LV2.5/blocks/lvs/pages/relatorio_distancia.php
+END
+ativ_presenciais_gera.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/moodlelvs/!svn/ver/91/trunk/LV2.5/blocks/lvs/pages/ativ_presenciais_gera.php
+END
+relatorio_faltas.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/moodlelvs/!svn/ver/64/trunk/LV2.5/blocks/lvs/pages/relatorio_faltas.php
+END
+rate.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/moodlelvs/!svn/ver/64/trunk/LV2.5/blocks/lvs/pages/rate.php
+END
+rateajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/moodlelvs/!svn/ver/64/trunk/LV2.5/blocks/lvs/pages/rateajax.php
+END
+edicao_presencial.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/moodlelvs/!svn/ver/64/trunk/LV2.5/blocks/lvs/pages/edicao_presencial.php
+END
+relatorio_presenciais.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/moodlelvs/!svn/ver/64/trunk/LV2.5/blocks/lvs/pages/relatorio_presenciais.php
+END
+importa_nota_quiz.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/moodlelvs/!svn/ver/64/trunk/LV2.5/blocks/lvs/pages/importa_nota_quiz.php
+END
+listar_quizzes.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/moodlelvs/!svn/ver/91/trunk/LV2.5/blocks/lvs/pages/listar_quizzes.php
+END
+Template.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/moodlelvs/!svn/ver/17/trunk/LV2.5/blocks/lvs/pages/Template.class.php
+END
+lista_alunos.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/moodlelvs/!svn/ver/80/trunk/LV2.5/blocks/lvs/pages/lista_alunos.php
+END
+creditos_lvs.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/moodlelvs/!svn/ver/53/trunk/LV2.5/blocks/lvs/pages/creditos_lvs.php
+END
+ativ_distancia.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/moodlelvs/!svn/ver/91/trunk/LV2.5/blocks/lvs/pages/ativ_distancia.php
+END
+config_cursolv.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/moodlelvs/!svn/ver/66/trunk/LV2.5/blocks/lvs/pages/config_cursolv.php
+END
+config_atividade.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/moodlelvs/!svn/ver/17/trunk/LV2.5/blocks/lvs/pages/config_atividade.php
+END
+grava_av_final.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/moodlelvs/!svn/ver/17/trunk/LV2.5/blocks/lvs/pages/grava_av_final.php
+END
+importar_quizzes.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/moodlelvs/!svn/ver/64/trunk/LV2.5/blocks/lvs/pages/importar_quizzes.php
+END
+ativ_presenciais.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/moodlelvs/!svn/ver/17/trunk/LV2.5/blocks/lvs/pages/ativ_presenciais.php
+END
+carinhas_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/moodlelvs/!svn/ver/17/trunk/LV2.5/blocks/lvs/pages/carinhas_form.html
+END
+notas_presenciais.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/moodlelvs/!svn/ver/83/trunk/LV2.5/blocks/lvs/pages/notas_presenciais.php
+END
+notas_atividades_presenciais.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/moodlelvs/!svn/ver/17/trunk/LV2.5/blocks/lvs/pages/notas_atividades_presenciais.php
+END
+ativ_presenciais_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/moodlelvs/!svn/ver/91/trunk/LV2.5/blocks/lvs/pages/ativ_presenciais_config.php
+END
+atividades_distancia.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/moodlelvs/!svn/ver/64/trunk/LV2.5/blocks/lvs/pages/atividades_distancia.php
+END
+nota_atividade_multipla.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/moodlelvs/!svn/ver/17/trunk/LV2.5/blocks/lvs/pages/nota_atividade_multipla.php
+END

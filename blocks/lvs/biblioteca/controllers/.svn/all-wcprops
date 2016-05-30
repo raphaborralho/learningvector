@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/moodlelvs/!svn/ver/97/trunk/LV2.5/blocks/lvs/biblioteca/controllers
+END
+PresenciaisController.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/moodlelvs/!svn/ver/63/trunk/LV2.5/blocks/lvs/biblioteca/controllers/PresenciaisController.php
+END
+AdapterController.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/moodlelvs/!svn/ver/63/trunk/LV2.5/blocks/lvs/biblioteca/controllers/AdapterController.php
+END
+Configuracoes.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/moodlelvs/!svn/ver/63/trunk/LV2.5/blocks/lvs/biblioteca/controllers/Configuracoes.php
+END
+QuizzesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/moodlelvs/!svn/ver/97/trunk/LV2.5/blocks/lvs/biblioteca/controllers/QuizzesController.php
+END
+RelatorioController.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/moodlelvs/!svn/ver/77/trunk/LV2.5/blocks/lvs/biblioteca/controllers/RelatorioController.php
+END
+DistanciaController.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/moodlelvs/!svn/ver/97/trunk/LV2.5/blocks/lvs/biblioteca/controllers/DistanciaController.php
+END
+Relatorio.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/moodlelvs/!svn/ver/64/trunk/LV2.5/blocks/lvs/biblioteca/controllers/Relatorio.php
+END

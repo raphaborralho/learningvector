@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/moodlelvs/!svn/ver/100/trunk/LV2.5/blocks/lvs/biblioteca/business
+END
+CursoLv.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/moodlelvs/!svn/ver/63/trunk/LV2.5/blocks/lvs/biblioteca/business/CursoLv.php
+END
+AtividadesLv.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/moodlelvs/!svn/ver/63/trunk/LV2.5/blocks/lvs/biblioteca/business/AtividadesLv.php
+END
+Atividades.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/moodlelvs/!svn/ver/63/trunk/LV2.5/blocks/lvs/biblioteca/business/Atividades.php
+END
+AtividadesPresenciais.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/moodlelvs/!svn/ver/101/trunk/LV2.5/blocks/lvs/biblioteca/business/AtividadesPresenciais.php
+END
+AtividadeLv.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/moodlelvs/!svn/ver/63/trunk/LV2.5/blocks/lvs/biblioteca/business/AtividadeLv.php
+END
+Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/moodlelvs/!svn/ver/63/trunk/LV2.5/blocks/lvs/biblioteca/business/Item.php
+END
+GerenciadorAtividadesDistancia.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/moodlelvs/!svn/ver/63/trunk/LV2.5/blocks/lvs/biblioteca/business/GerenciadorAtividadesDistancia.php
+END
+GerenciadorAtividades.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/moodlelvs/!svn/ver/63/trunk/LV2.5/blocks/lvs/biblioteca/business/GerenciadorAtividades.php
+END

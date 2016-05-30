@@ -1,0 +1,40 @@
+10
+
+dir
+100
+http://gforge.ifce.edu.br/svn/moodlelvs/trunk/LV2.5/blocks/lvs/biblioteca/moodle2
+http://gforge.ifce.edu.br/svn/moodlelvs
+
+
+
+2013-08-17T15:18:34.158003Z
+100
+rickypaz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df0e3232-6108-460b-b3fe-0825ea522496
+
+avaliacao
+dir
+
+business
+dir
+
+controllers
+dir
+
+view
+dir
+

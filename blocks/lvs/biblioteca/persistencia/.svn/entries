@@ -1,0 +1,37 @@
+10
+
+dir
+100
+http://gforge.ifce.edu.br/svn/moodlelvs/trunk/LV2.5/blocks/lvs/biblioteca/persistencia
+http://gforge.ifce.edu.br/svn/moodlelvs
+
+
+
+2013-05-18T11:41:33.047851Z
+17
+rickypaz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df0e3232-6108-460b-b3fe-0825ea522496
+
+adapter
+dir
+
+daos
+dir
+
+mappers
+dir
+
