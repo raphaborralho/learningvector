@@ -4,10 +4,10 @@
 
 /mod/*
 
-!/mod/forumlv/*
-!/mod/chatlv/*
-!/mod/tarefalv/*
-!/mod/wikilv/*
+!/mod/forumlv/
+!/mod/chatlv/
+!/mod/tarefalv/
+!/mod/wikilv/
 
 !/block/
 /block/*
