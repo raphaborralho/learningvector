@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/moodlelvs/!svn/ver/90/trunk/LV2.5/mod/chatlv
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/moodlelvs/!svn/ver/23/trunk/LV2.5/mod/chatlv/version.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/23/trunk/LV2.5/mod/chatlv/locallib.php
+END
+chatlv_ajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/moodlelvs/!svn/ver/27/trunk/LV2.5/mod/chatlv/chatlv_ajax.php
+END
+mod_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/53/trunk/LV2.5/mod/chatlv/mod_form.php
+END
+beep.wav
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/moodlelvs/!svn/ver/22/trunk/LV2.5/mod/chatlv/beep.wav
+END
+chatlvd.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/moodlelvs/!svn/ver/27/trunk/LV2.5/mod/chatlv/chatlvd.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/23/trunk/LV2.5/mod/chatlv/settings.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/78/trunk/LV2.5/mod/chatlv/renderer.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/moodlelvs/!svn/ver/90/trunk/LV2.5/mod/chatlv/lib.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/moodlelvs/!svn/ver/23/trunk/LV2.5/mod/chatlv/view.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/moodlelvs/!svn/ver/23/trunk/LV2.5/mod/chatlv/README.txt
+END
+empty.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/moodlelvs/!svn/ver/22/trunk/LV2.5/mod/chatlv/empty.php
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/moodlelvs/!svn/ver/23/trunk/LV2.5/mod/chatlv/styles.css
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/moodlelvs/!svn/ver/23/trunk/LV2.5/mod/chatlv/index.php
+END
+report.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/moodlelvs/!svn/ver/78/trunk/LV2.5/mod/chatlv/report.php
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/moodlelvs/!svn/ver/23/trunk/LV2.5/mod/chatlv/upgrade.txt
+END

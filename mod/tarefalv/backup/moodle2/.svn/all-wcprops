@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/moodlelvs/!svn/ver/94/trunk/LV2.5/mod/tarefalv/backup/moodle2
+END
+restore_tarefalv_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/moodlelvs/!svn/ver/94/trunk/LV2.5/mod/tarefalv/backup/moodle2/restore_tarefalv_activity_task.class.php
+END
+restore_tarefalv_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/moodlelvs/!svn/ver/94/trunk/LV2.5/mod/tarefalv/backup/moodle2/restore_tarefalv_stepslib.php
+END
+backup_tarefalv_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/moodlelvs/!svn/ver/94/trunk/LV2.5/mod/tarefalv/backup/moodle2/backup_tarefalv_stepslib.php
+END
+backup_tarefalv_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/moodlelvs/!svn/ver/94/trunk/LV2.5/mod/tarefalv/backup/moodle2/backup_tarefalv_activity_task.class.php
+END

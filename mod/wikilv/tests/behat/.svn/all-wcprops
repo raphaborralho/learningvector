@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/tests/behat
+END
+collaborative_individual.feature
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/tests/behat/collaborative_individual.feature
+END
+page_history.feature
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/tests/behat/page_history.feature
+END
+preview_page.feature
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/tests/behat/preview_page.feature
+END
+wikilv_formats.feature
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/tests/behat/wikilv_formats.feature
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/moodlelvs/!svn/ver/50/trunk/LV2.5/mod/forumlv/db
+END
+events.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/db/events.php
+END
+install.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/moodlelvs/!svn/ver/50/trunk/LV2.5/mod/forumlv/db/install.xml
+END
+messages.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/db/messages.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/db/upgrade.php
+END
+services.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/db/services.php
+END
+access.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/db/access.php
+END
+log.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/db/log.php
+END

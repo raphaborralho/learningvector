@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/moodlelvs/!svn/ver/27/trunk/LV2.5/mod/chatlv/backup/moodle2
+END
+restore_chatlv_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/moodlelvs/!svn/ver/27/trunk/LV2.5/mod/chatlv/backup/moodle2/restore_chatlv_stepslib.php
+END
+backup_chatlv_stepslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/moodlelvs/!svn/ver/27/trunk/LV2.5/mod/chatlv/backup/moodle2/backup_chatlv_stepslib.php
+END
+backup_chatlv_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/moodlelvs/!svn/ver/27/trunk/LV2.5/mod/chatlv/backup/moodle2/backup_chatlv_activity_task.class.php
+END
+restore_chatlv_activity_task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/moodlelvs/!svn/ver/27/trunk/LV2.5/mod/chatlv/backup/moodle2/restore_chatlv_activity_task.class.php
+END

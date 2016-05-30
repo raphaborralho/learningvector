@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/moodlelvs/!svn/ver/90/trunk/LV2.5/mod/wikilv
+END
+files.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/files.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/locallib.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/create.php
+END
+editcomments.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/editcomments.php
+END
+filesedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/filesedit.php
+END
+module.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/module.js
+END
+filesedit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/filesedit_form.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/69/trunk/LV2.5/mod/wikilv/renderer.php
+END
+diff.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/moodlelvs/!svn/ver/101/trunk/LV2.5/mod/wikilv/diff.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/moodlelvs/!svn/ver/90/trunk/LV2.5/mod/wikilv/lib.php
+END
+instancecomments.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/instancecomments.php
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/edit.php
+END
+restoreversion.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/restoreversion.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/admin.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/index.php
+END
+viewversion.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/viewversion.php
+END
+history.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/history.php
+END
+pagelib.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/101/trunk/LV2.5/mod/wikilv/pagelib.php
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/version.php
+END
+edit_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/edit_form.php
+END
+prettyview.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/prettyview.php
+END
+map.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/map.php
+END
+overridelocks.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/overridelocks.php
+END
+mod_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/87/trunk/LV2.5/mod/wikilv/mod_form.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/README
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/moodlelvs/!svn/ver/69/trunk/LV2.5/mod/wikilv/view.php
+END
+create_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/create_form.php
+END
+search.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/search.php
+END
+lock.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/lock.php
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/styles.css
+END
+comments_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/comments_form.php
+END
+comments.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/31/trunk/LV2.5/mod/wikilv/comments.php
+END

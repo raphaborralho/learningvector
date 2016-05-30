@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/moodlelvs/!svn/ver/90/trunk/LV2.5/mod/forumlv
+END
+version.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/version.php
+END
+settracking.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/settracking.php
+END
+externallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/externallib.php
+END
+locallib.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/locallib.php
+END
+discuss.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/discuss.php
+END
+post.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/post.php
+END
+mod_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/moodlelvs/!svn/ver/53/trunk/LV2.5/mod/forumlv/mod_form.php
+END
+forumlv.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/forumlv.js
+END
+post_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/post_form.php
+END
+renderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/renderer.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/settings.php
+END
+lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/moodlelvs/!svn/ver/90/trunk/LV2.5/mod/forumlv/lib.php
+END
+prune.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/prune.html
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/view.php
+END
+markposts.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/markposts.php
+END
+search.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/search.php
+END
+subscribe.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/subscribe.php
+END
+subscribers.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/subscribers.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/user.php
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/styles.css
+END
+unsubscribeall.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/unsubscribeall.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/index.php
+END
+rsslib.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/rsslib.php
+END
+upgrade.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/upgrade.txt
+END

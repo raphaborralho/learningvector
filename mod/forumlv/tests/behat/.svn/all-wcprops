@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/tests/behat
+END
+edit_post_teacher.feature
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/tests/behat/edit_post_teacher.feature
+END
+behat_mod_forumlv.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/tests/behat/behat_mod_forumlv.php
+END
+discussion_display.feature
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/tests/behat/discussion_display.feature
+END
+completion_condition_number_discussions.feature
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/tests/behat/completion_condition_number_discussions.feature
+END
+add_forumlv.feature
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/tests/behat/add_forumlv.feature
+END
+track_read_posts.feature
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/tests/behat/track_read_posts.feature
+END
+edit_post_student.feature
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/tests/behat/edit_post_student.feature
+END
+single_forumlv_discussion.feature
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/moodlelvs/!svn/ver/26/trunk/LV2.5/mod/forumlv/tests/behat/single_forumlv_discussion.feature
+END
